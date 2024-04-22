@@ -1,2 +1,2 @@
 # EngineeringComputingWithPython
-pythonProject_EngineeringComputingWithPython
+Lottery Helper
